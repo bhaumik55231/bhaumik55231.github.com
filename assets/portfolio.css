@@ -1,0 +1,45 @@
+.nav-item {
+    font-weight: bold;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.heading {
+    color: #323287;
+    font-weight: bolder;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+
+.sub-heading {
+    color: #77494e;
+    font-weight: bolder;
+    font-size: 1rem;
+    margin: 1rem 0;
+}
+
+.work-duration {
+    text-align: right;
+}
+
+.border-left {
+    border-left: 1px solid #fff;
+}
+
+.border-right {
+    border-right: 1px solid #fff;
+}
+
+.navbar-nav {
+    width: 100%;
+}
+
+.nav-item {
+    margin: 0 0.5rem;
+}
+
+.ts-heading {
+    font-weight: bold;
+}
