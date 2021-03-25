@@ -6,6 +6,21 @@ html {
     scroll-behavior: smooth;
 }
 
+.box-shadow {
+    box-shadow: 0 2.8px 2.2px rgb(0 0 0 / 3%), 0 6.7px 5.3px rgb(0 0 0 / 3%), 0 2.5px 5px rgb(0 0 0 / 3%), 0 12.3px 7.9px rgb(0 0 0 / 2%)
+}
+
+.sub-div {
+    margin-top: 1rem !important; 
+    margin-bottom: 1rem !important; 
+    padding: 1rem !important; 
+    border-radius: 0.5rem;
+}
+
+.nav-link {
+    color: black;
+}
+
 .heading {
     color: #323287;
     font-weight: bolder;
